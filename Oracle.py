@@ -189,7 +189,7 @@ class PortfolioOptimisation_Whole_Dataset:
         execution_time = time.time() - start_time
         return x, pd.DataFrame(history), execution_time
 
-    def run_all_fw(self, max_iter: int = 1000, tol: float = 1e-6) -> dict[str, Dict[str, Any]]:
+    def run_all_fw(self, max_iter: int = 1000, tol: float = 1e-6) -> dict[str, dict[str, Any]]:
         results = {}
 
         fw_x, fw_history, fw_time = self.fw(max_iter, tol)
