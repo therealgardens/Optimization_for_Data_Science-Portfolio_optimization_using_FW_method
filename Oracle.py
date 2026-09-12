@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import time
-
+from typing import Any
 
 def comp_stats(data: np.ndarray, wind_size: int = 52, offset: int = 1) -> tuple[np.ndarray, np.ndarray]:
     means = []
