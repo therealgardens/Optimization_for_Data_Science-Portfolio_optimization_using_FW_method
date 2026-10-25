@@ -68,7 +68,7 @@ The rolling-window wealth calculations **exclude transaction costs**, and the re
 
 ## Report
 
-The full mathematical derivations, experimental design, figures and detailed results are available in the [**final project report (PDF)**](Final_Optimisation_Project%282%29.pdf).
+The full mathematical derivations, experimental design, figures and detailed results are available in the [Read the final project report (PDF)](./Final_Optimisation_Project.pdf).
 
 ## Academic context
 
