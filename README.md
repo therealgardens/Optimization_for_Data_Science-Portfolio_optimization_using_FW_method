@@ -72,7 +72,7 @@ The full mathematical derivations, experimental design, figures and detailed res
 
 ## Academic context
 
-Completed as a **group project** for *Optimization for Data Science* at the **University of Padua** (Group 31). The work and results presented here are collaborative.
+Completed as a **group project** for *Optimization for Data Science* at the **University of Padua** (Group 31). The work and results presented here are collaborative. Members of the group are Davide Giardini and Sara Francesca Scully.
 
 ### Selected references
 
